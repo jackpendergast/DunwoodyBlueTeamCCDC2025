@@ -1,0 +1,25 @@
+Dunwoody Blue Hawks
+Business Memo
+TO: 2025 Gold Team, White Team, 
+FROM: Levi Ingle, Blue Team Documenter
+DATE: January 25th 2025
+SUBJECT: Inject ____
+Purpose: This memo serves to document the team’s analysis and response to Inject [Insert Inject Number or Name]. It aims to provide a clear record of actions taken and ensure alignment with operational objectives.
+
+Details:
+* Overview: The inject focused on [briefly describe the scenario, e.g., "an attempted breach of the organization's firewall through unauthorized access."].
+* Response: The team implemented the following measures:
+o [Action 1, e.g., "Strengthened firewall rules to block unauthorized IP addresses."]
+o [Action 2, e.g., "Conducted a system-wide audit to identify compromised accounts."]
+* Considerations:
+o Potential risks identified include [e.g., "inadequate logging capabilities and delayed detection."]
+o Additional improvements needed include [e.g., "enhanced real-time monitoring tools."].
+
+Action Items:
+* Task 1: Conduct a security review of all systems to ensure vulnerabilities are addressed.
+o Assigned to: [Team Member Name], Deadline: [Insert Date].
+* Task 2: Create and distribute an incident report to relevant stakeholders.
+o Assigned to: [Team Member Name], Deadline: [Insert Date].
+* Task 3: Organize a training session on handling similar injects in future scenarios.
+o Assigned to: [Team Member Name], Deadline: [Insert Date].
+Conclusion: In response to Inject [Insert Inject Number or Name], the team acted promptly and effectively to mitigate the impact. Moving forward, completing the outlined action items will further strengthen our defenses. Consistent communication and timely updates are key to maintaining our operational readiness.
